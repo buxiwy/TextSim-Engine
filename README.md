@@ -43,6 +43,11 @@ git clone https://github.com/buxiwy/TextSim-Engine.git
 cd TextSim-Engine
 ```
 
+或者**什么都不装，先试一下**：
+
+- 🎮 在线试玩：<https://buxiwy.github.io/TextSim-Engine/>
+- 📦 按版本下载：<https://github.com/buxiwy/TextSim-Engine/releases>
+
 然后**直接双击 `index.html`**，用浏览器打开即可游玩内置剧本。不需要 `npm install`，
 不需要任何构建步骤——本项目没有 `package.json`，这是刻意的。
 
